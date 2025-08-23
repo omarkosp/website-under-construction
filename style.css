@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ECE5D2;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+.container img {
+  max-width: 200px; /* adjust image size */
+  margin-bottom: 20px;
+}
+
+.container h1 {
+  color: #333;
+  font-size: 24px;
+}
